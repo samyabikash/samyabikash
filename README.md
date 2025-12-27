@@ -25,6 +25,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+<!-- Spacer to prevent SVG overlap -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="20"/>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samyabikash&limit=5&theme=outrun&combine_all_yearly_contributions=true)
 
