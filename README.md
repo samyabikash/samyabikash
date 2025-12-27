@@ -115,7 +115,7 @@ Worked on large-scale programs for global organizations, including:
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" style="margin-bottom: 20px;"/>
 
 <!-- Spacer to prevent SVG overlap -->
 <p align="left">
