@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samyabikash&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=samyabikash&limit=5&theme=outrun&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samyabikash&icon=0&color=0)](https://visitcount.itsvg.in)
