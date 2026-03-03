@@ -31,7 +31,7 @@ I enjoy breaking down complex backend problems into simple, elegant solutions—
 
 ## 🧠 Professional Summary
 
-Seasoned **Senior Java Solution Architect** with **13+ years of experience** architecting and delivering  
+Seasoned **Senior Java Solution Architect** with **14+ years of experience** architecting and delivering  
 **large-scale, mission-critical systems** across **banking, payments, financial services, and cloud-native platforms**.
 
 Proven expertise in designing **high-throughput microservices**, **event-driven architectures**, and  
@@ -121,13 +121,6 @@ Worked on large-scale programs for global organizations, including:
 <p align="left">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="20"/>
 </p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samyabikash&limit=5&theme=outrun&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=samyabikash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
 ⭐ If you like my work, consider following me!
