@@ -25,13 +25,13 @@ Reactive programming with Spring WebFlux, R2DBC, advanced Kafka internals, and c
 Java, Spring Boot, Microservices, Kafka, REST API design, CQRS, OAuth2/Keycloak, database design, and backend system optimization.<br><br>
 
 ⚡ Fun fact<br>
-I enjoy breaking down complex backend problems into simple, elegant solutions—and I’m an immediate joiner with 14+ years of Java experience 😉
+I enjoy breaking down complex backend problems into simple, elegant solutions—and I’m an immediate joiner with 15+ years of Java experience 😉
 
 ---
 
 ## 🧠 Professional Summary
 
-Seasoned **Senior Java Solution Architect** with **14+ years of experience** architecting and delivering  
+Seasoned **Senior Java Solution Architect** with **15+ years of experience** architecting and delivering  
 **large-scale, mission-critical systems** across **banking, payments, financial services, and cloud-native platforms**.
 
 Proven expertise in designing **high-throughput microservices**, **event-driven architectures**, and  
